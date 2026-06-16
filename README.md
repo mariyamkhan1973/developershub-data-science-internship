@@ -1,7 +1,8 @@
 **DevelopersHub-Internship-Tasks**
 Data Science & Analytics internship tasks completed for the DevelopersHub Corporation internship program .
 **DevelopersHub Corporation - Data Science Internship**
-This repository contains the tasks I completed during my Data Science and Analytics internship at DevelopersHub Corporation..
+This repository contains the tasks 
+completed during my Data Science and Analytics internship at DevelopersHub Corporation..
 
 **Task 1: Exploring and Visualizing the Iris Dataset**
 
