@@ -4,7 +4,7 @@ Data Science & Analytics internship tasks completed for the DevelopersHub Corpor
 This repository contains the tasks 
 completed during my Data Science and Analytics internship at DevelopersHub Corporation..
 
-#Task 1: Exploring and Visualizing the Iris Dataset
+**Task 1: Exploring and Visualizing the Iris Dataset**
 
 **What I Did**
 In this task, I worked with the Iris dataset and performed basic data exploration and visualization using Python. I loaded the dataset, checked its structure, viewed sample records, and analyzed the data through different visualizations including scatter plots, histograms, and box plots.
@@ -19,7 +19,7 @@ In this task, I worked with the Iris dataset and performed basic data exploratio
  **Conclusion**
 This task helped me learn how to explore a dataset and create visualizations to better understand the data. Using graphs made it easier to identify patterns, distributions, and differences between the flower species in the Iris dataset.
 
- #Task 4: Predicting Insurance Claim Amounts
+ **Task 4: Predicting Insurance Claim Amounts**
 
 **What I Did**
 
@@ -41,7 +41,7 @@ After analyzing the data, I trained a Linear Regression model to estimate insura
 This task helped me understand the basics of regression modeling and how machine learning can be used to predict numerical values. I also learned how to visualize data, analyze feature relationships, and evaluate model performance using regression metrics.
 
 
-# Task 2: Credit Risk Prediction
+**Task 2: Credit Risk Prediction**
 
 ### What I Did
 
