@@ -15,7 +15,6 @@ In this task, I worked with the Iris dataset and performed basic data exploratio
 - The histogram helped me understand the distribution of sepal length values in the dataset.
 - The box plot showed the spread of the data and highlighted a few possible outliers.
 - Petal measurements appear to be more useful than sepal measurements for distinguishing between flower species.
-  **Tools Used**
-Python,Pandas,Matplotlib,Seaborn,Google Colab
+
  **Conclusion**
 This task helped me learn how to explore a dataset and create visualizations to better understand the data. Using graphs made it easier to identify patterns, distributions, and differences between the flower species in the Iris dataset.
